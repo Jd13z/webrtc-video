@@ -8,6 +8,7 @@ import VideoRecordComp from './components/VideoRecordComp';
 function App() {
   return (
     <div>
+      <span>Add Span</span>
       <BrowserRouter>
         <Switch>
         <Route path="/" exact>
